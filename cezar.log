@@ -1,0 +1,20 @@
+2020-10-25 18:19:10,278 - First logger - INFO - Program started
+2020-10-25 18:19:20,211 - First logger - INFO - Inputted message: проверка номер 1
+2020-10-25 18:19:22,507 - First logger - INFO - Inputted shift: 3
+2020-10-25 18:19:26,306 - First logger - INFO - type of program operation: encryption
+2020-10-25 18:19:26,307 - First logger - INFO - Program started working on the message
+2020-10-25 18:19:26,307 - First logger - INFO - Program successfully finished working on the message
+2020-10-25 18:19:43,996 - First logger - INFO - Inputted message: проверка вторая 
+2020-10-25 18:19:46,666 - First logger - INFO - Inputted shift: 1
+2020-10-25 18:19:48,355 - First logger - INFO - type of program operation: decryption
+2020-10-25 18:19:48,357 - First logger - INFO - Program started working on the message
+2020-10-25 18:19:48,357 - First logger - INFO - Program successfully finished working on the message
+2020-10-25 18:19:53,290 - First logger - INFO - Program stopped
+2020-10-25 18:20:25,265 - First logger - INFO - Program started
+2020-10-25 18:20:43,271 - First logger - INFO - Inputted message: проверка третья а может и первая
+2020-10-25 18:20:47,496 - First logger - INFO - Inputted shift: 4
+2020-10-25 18:20:49,943 - First logger - INFO - Incorrect input
+2020-10-25 18:20:56,011 - First logger - INFO - Inputted message: aaa
+2020-10-25 18:20:59,984 - First logger - INFO - Inputted shift: -1
+2020-10-25 18:21:04,172 - First logger - INFO - Incorrect input
+2020-10-25 18:21:05,659 - First logger - INFO - Program stopped
